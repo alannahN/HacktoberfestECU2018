@@ -1,6 +1,7 @@
 public class HelloWorld{
-
-//comment
-//comment 2
-
+    public static void main(String[] args) {
+        //Prints "Hello, Wrld" to the terminal window
+        System.out.println("Hello, World");
+       ] 
+    
 }
